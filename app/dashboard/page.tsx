@@ -140,7 +140,6 @@ export default function Dashboard() {
     );
   }
 
-  // ── Error ────────────────────────────────────────────────────────────────────
   if (error) {
     return (
       <div style={{
